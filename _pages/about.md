@@ -28,9 +28,9 @@ Recent updates
 MY Experience
 ======
 * First year
-  * Robot 
+  * Harbin Institute of Technology Amateur Radio Club
 * Second year
-  * Smart 
+  * Lilac micro-satellite student team (HIT Aerospace Satellite Technology Research Center)
 * Third year
   * Intel
   * ii
