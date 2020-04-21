@@ -14,11 +14,11 @@ My CV is here.
 
 My transcript is 
 
-My ranking certification is 
+
 
 About Me
 ======
-Like many boys who are crazy about computer games from their childhood, I am hooked by robotics and autonomous systems from my high school. I feel very lucky that I have many opportunities to explore my interested areas during my undergraduate study.
+Like many boys who are crazy about engineering from their childhood, I am hooked by electroncis and communication systems from my high school. I feel very lucky that I have many opportunities to explore my interested areas during my study.
 
 Recent updates
 ======
@@ -31,10 +31,11 @@ MY Experience
   * Harbin Institute of Technology Amateur Radio Club
 * Second year
   * Lilac micro-satellite student team (HIT Aerospace Satellite Technology Research Center)
+  * A team for technological contests in School of Electronics and Information Engineering
 * Third year
-  * Intel
-  * ii
+  *  Lilac micro-satellite student team (HIT Aerospace Satellite Technology Research Center)
+  * 
 
 For more info
 ------
-If you have some questions or want to contact me, you can send me an e-mail(zhaoting_li@outlook.com or lizhaoting@hit.edu.cn).
+If you have some questions or want to contact me, you can send me an e-mail(gong-chenee@outlook.com or 1170500224@stu.hit.edu.cn).
