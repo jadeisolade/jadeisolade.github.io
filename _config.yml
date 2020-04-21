@@ -83,6 +83,7 @@ author:
   name             : "Gong Chen"
   avatar           : "profile.png"
   bio              : "Third year student at Harbin Insititute of Technology"
+  Major            : "Communication Engineering"
   location         : "Harbin, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -209,6 +210,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
   # _teaching
   - scope:
       path: ""
