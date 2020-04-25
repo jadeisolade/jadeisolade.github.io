@@ -34,7 +34,7 @@ MY Experience
   * A team for technological contests in School of Electronics and Information Engineering
 * Third year
   *  Lilac micro-satellite student team (HIT Aerospace Satellite Technology Research Center)
-  * 
+
 
 For more info
 ------
