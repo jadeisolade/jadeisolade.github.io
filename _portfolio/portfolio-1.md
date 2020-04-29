@@ -1,6 +1,6 @@
 ---
 title: "Innovation talk for freshman"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/technicaltalk.jpg'>"
+excerpt: "Innovation talks about my experience and ideas for freshman in School of Electronic and Information Engineering, HIT. <br/><img src='/images/technicaltalk.jpg'>"
 collection: portfolio
 ---
 
