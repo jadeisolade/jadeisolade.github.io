@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! You can find many details about me,such as my research experiences and cv. If you have some questions or want to contact me, you can send me an e-mail(zhaoting_li@outlook.com).
+Welcome to my personal website! You can find many details about me,such as my research experiences and cv. If you have some questions or want to contact me, you can send me an e-mail(gong-chenee@outlook.com).
 
-My CV is here. [CV_Chen_GONG.pdf](files/template.pdf)
+My CV is here. [CV_Chen_Gong.pdf](files/template.pdf)
 
 My transcript is 
 
