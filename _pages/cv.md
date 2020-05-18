@@ -11,31 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Communication Engineering, Harbin Institute of Technology, 2017-present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018.7--present: Antenna designer
+  * Designed a feed with good performance, and its material object is used in satellite ground station;
+  * Proposed a conical spiral antenna with special radiation pattern and the result would be used in the ASRTU satellite in the future;
+  * In this center, I learn how to acquire new things and solve the engineering problem with explicity.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018.10--2019.11: Research Assistant
+  * We build a novel smart shopping cart with RFID, UWB positioning and Software based on Kivy, if course, AI algorithm accompanied;
+  * We win the national second price in the ICAN International Contest of Innovation (China) for this programme.
+  * We built a company and apply for a patent on the basis of this result and win the favor of HIT entrepreneurship Garden.
+  * In this center, I strive to get several honors and awards and fundings over 50,000 yuan.
+  
+ * 2018.11--2019.9: Team leader
+  * I successfully utilized the new AI chip Kendryte K210 which is useful in edge computing.
+  * An IOT system is established with good performanve and low delay.
+  * Flower identification, Quantity recognition and prediction medel is used in the project.
+  * A wechat programme and A Web page with logging system and controling ability is created.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Application
+  * CST MWS
+  * Altium Designer
+  * Keil
+  * Origin
+* Programming
+  * C
+  * Python
+  * MATLAB
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Technological chair of HIT Amateur Radio Club
