@@ -26,13 +26,12 @@ Work experience
   * We built a company and apply for a patent on the basis of this result and win the favor of HIT entrepreneurship Garden.
   * In this center, I strive to get several honors and awards and fundings over 50,000 yuan.
   
- * 2018.11--2019.9: Team leader
+* 2018.11--2019.9: Team leader
   * I successfully utilized the new AI chip Kendryte K210 which is useful in edge computing.
   * An IOT system is established with good performanve and low delay.
   * Flower identification, Quantity recognition and prediction medel is used in the project.
   * A wechat programme and A Web page with logging system and controling ability is created.
 
-  
 Skills
 ======
 * Application
