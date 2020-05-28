@@ -4,13 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* **Gong Chen**, Chaoran Hu, [A Beam Forming Antenna Based on Earth Shape for Micro-satellite], ISAP World Congress, under writing.
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Chengyao Yang, **Gong Chen**, Lu Ba, Jinlong Liu, [Research on key technologies of NoverCart smart shopping cart system], accepted by 2020 IEEE CSPS.
